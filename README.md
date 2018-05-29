@@ -1,6 +1,5 @@
 # RemoteTest
 
+github最值得收藏的Bootstrap3后台管理框架
 
-Something.
-
-2018/05/26.
+http://blog.csdn.net/li396864285/article/details/78095814
